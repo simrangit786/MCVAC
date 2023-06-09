@@ -1,0 +1,7 @@
+*.css
+*.png
+*.svg
+*.jpg
+node_modules/
+.idea/
+.env*
